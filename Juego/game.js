@@ -18,7 +18,7 @@ var config = {
             debug: false
         }
     },
-    scene: [Preloader, MainMenu, SelectMode, Credits, Options, Lobby]
+    scene: [Preloader, Intro, MainMenu, SelectMode, Credits, Options, Lobby, Lobby2]
 };
 
 

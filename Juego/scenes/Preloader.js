@@ -7,6 +7,9 @@ class Preloader extends Phaser.Scene
 	
 	preload()
 	{
+		//Foto intro
+		this.load.image('introFondo', './assets/intro.png');
+
 		//Foto fondo
 		this.load.image('menuFondo', './assets/menuFondo.png');
 
@@ -30,7 +33,8 @@ class Preloader extends Phaser.Scene
 		this.load.image('multiplayerButton', './assets/multiplayerButton.png');
 		this.load.image('terminarButton', './assets/terminarButton.png');
 		this.load.image('finishButton', './assets/finishButton.png');
-
+		this.load.image('player2Button', './assets/player2Button.png');
+		this.load.image('jugador2Button', './assets/jugador2Button.png');
 
 
 		//Flechas seleccion idioma
@@ -119,6 +123,11 @@ class Preloader extends Phaser.Scene
 		this.load.image('zapatos12Button', './assets/zapatos12Button.png');
 
 
+		//Copas
+		this.load.image('copa1', './assets/copa1.png');
+		this.load.image('copa2', './assets/copa2.png');
+
+
 
 		//Fotos chicos
 		this.load.image('moreno', './assets/moreno.png');
@@ -186,7 +195,7 @@ class Preloader extends Phaser.Scene
 
 	create()
 	{
-		this.scene.start('MainMenu');	
+		this.scene.start('Intro');
 	}
 
 	update()
