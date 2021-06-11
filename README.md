@@ -1,3 +1,5 @@
+**FICHA DEL JUEGO:**
+
 Título: FASHIONLAND.
 
 Género: Juego de vestir infantil.
@@ -43,93 +45,69 @@ El interfaz es bastante sencillo. Se presentan distintas escenas, en la que dest
 
 La pantalla principal que incita a jugar se compone del título del juego, FashionLand, y la orden de Click para comienzo del mismo.
 
-![](RackMultipart20210611-4-1j8vdn6_html_ee4da428f5715eec.png)
+![](RackMultipart20210611-4-p6svvu_html_ee4da428f5715eec.png)
 
 Una vez pulsado el Click, pasamos al menú principal:
 
-![](RackMultipart20210611-4-1j8vdn6_html_9e4e06d6873c605d.png)
+![](RackMultipart20210611-4-p6svvu_html_9e4e06d6873c605d.png)
 
 En este menú destacan tres botones centrales:
 
-![](RackMultipart20210611-4-1j8vdn6_html_9e4e06d6873c605d.png)
+![](RackMultipart20210611-4-p6svvu_html_9e4e06d6873c605d.png)
 
-![](RackMultipart20210611-4-1j8vdn6_html_9e4e06d6873c605d.png) En el botón de Créditos/Credits, se da la información del Juego, tanto autor como correo de contacto.
+![](RackMultipart20210611-4-p6svvu_html_9e4e06d6873c605d.png) En el botón de Créditos/Credits, se da la información del Juego, tanto autor como correo de contacto.
 
-![](RackMultipart20210611-4-1j8vdn6_html_8a71474ea0875479.png)
+![](RackMultipart20210611-4-p6svvu_html_8a71474ea0875479.png)
 
-![](RackMultipart20210611-4-1j8vdn6_html_9e4e06d6873c605d.png) Con el botón Opciones/Opción, podemos alterar parámetros de configuración. En este caso el idioma (español/inglés):
+![](RackMultipart20210611-4-p6svvu_html_9e4e06d6873c605d.png) Con el botón Opciones/Opción, podemos alterar parámetros de configuración. En este caso el idioma (español/inglés):
 
-![](RackMultipart20210611-4-1j8vdn6_html_a8f59acfe507108f.png)
+![](RackMultipart20210611-4-p6svvu_html_a8f59acfe507108f.png)
 
-![](RackMultipart20210611-4-1j8vdn6_html_9e4e06d6873c605d.png) El botón de Jugar/Play, nos permite seleccionar el modo de juego.
+![](RackMultipart20210611-4-p6svvu_html_9e4e06d6873c605d.png) El botón de Jugar/Play, nos permite seleccionar el modo de juego.
 
 SINGLE PLAYER/ UN JUGADOR - Un único Jugador;
 
 MULTIPLAYER/MULTIJUGADOR: Dos jugadores;
 
-![](RackMultipart20210611-4-1j8vdn6_html_c209e03d5da6390f.png)
+![](RackMultipart20210611-4-p6svvu_html_c209e03d5da6390f.png)
 
 La pantalla de Juego, Vestidor, tiene varias áreas a destacar:
 
 Zona de selección de muñeco-modelo, de artículo para cabeza, de artículo para parte superior del cuerpo, artículo para parte inferior y finalmente calzado.
 
-![](RackMultipart20210611-4-1j8vdn6_html_74488dc9e993836f.png)
+![](RackMultipart20210611-4-p6svvu_html_74488dc9e993836f.png)
 
 Al seleccionar uno de estos botones se exponen en la parte izquierda seis distintas opciones aunque para ver más opciones nos podemos desplazar mediante las flechas que aparecen junto a estas.
 
-![](RackMultipart20210611-4-1j8vdn6_html_c0e02c9b26eaa416.gif) ![](RackMultipart20210611-4-1j8vdn6_html_55afa3c6a629baf4.gif) ![](RackMultipart20210611-4-1j8vdn6_html_74488dc9e993836f.png)
-
-![](RackMultipart20210611-4-1j8vdn6_html_65c518a3057ce692.gif) ![](RackMultipart20210611-4-1j8vdn6_html_e3e700429e8de995.gif)
-
-Vista de seis artículos
-
-Flechas de desplazamiento entre artículos
+![](RackMultipart20210611-4-p6svvu_html_3d429b0cd250f2ad.png)
 
 En la parte superior se muestra el Identificador de jugador, útil para el caso de Modo Multijugador.
 
-![](RackMultipart20210611-4-1j8vdn6_html_42256aae0f0edf35.gif) ![](RackMultipart20210611-4-1j8vdn6_html_d2a5df12e0faeb91.gif)
-
-Identificador de jugador jugador.
-
- ![](RackMultipart20210611-4-1j8vdn6_html_a200a985e6d6f101.png)
+![](RackMultipart20210611-4-p6svvu_html_8846eb09b3f1bcc4.png)
 
 Si el jugador desea salir tiene el botón para volver al menú principal en la parte superior izquierda de la pantalla.
 
-![](RackMultipart20210611-4-1j8vdn6_html_e39174a7c234a03d.png)
+![](RackMultipart20210611-4-p6svvu_html_e39174a7c234a03d.png)
 
 Si el jugador considera vestido a su muñeco-modelo puede pulsar el botón fin.
 
-![](RackMultipart20210611-4-1j8vdn6_html_a200a985e6d6f101.png)
+![](RackMultipart20210611-4-p6svvu_html_a200a985e6d6f101.png)
 
 Otros botones de interés son los que permiten pasar al otro jugador en el caso de Multijugador.
 
-![](RackMultipart20210611-4-1j8vdn6_html_74488dc9e993836f.png)
+![](RackMultipart20210611-4-p6svvu_html_74488dc9e993836f.png)
 
 Por último la escena final, donde aparecen los muñecos-modelo con el premio correspondiente.
 
-![](RackMultipart20210611-4-1j8vdn6_html_bc6212743eae85b.png)
+![](RackMultipart20210611-4-p6svvu_html_bc6212743eae85b.png)
 
 **CONTROLES**
 
 En el ordenador se utiliza el ratón y en los dispositivos móviles usando la pantalla táctil.
 
-![](RackMultipart20210611-4-1j8vdn6_html_51bc963a4d5bf09.gif) ![](RackMultipart20210611-4-1j8vdn6_html_8d091e09d5e460f.gif) ![](RackMultipart20210611-4-1j8vdn6_html_7e87fac82c9c85b4.gif) ![](RackMultipart20210611-4-1j8vdn6_html_6c16df0a6509177a.gif) ![](RackMultipart20210611-4-1j8vdn6_html_6c16df0a6509177a.gif) ![](RackMultipart20210611-4-1j8vdn6_html_726de59b648f0a01.gif) ![](RackMultipart20210611-4-1j8vdn6_html_86791ca1ba2d75a0.gif) ![](RackMultipart20210611-4-1j8vdn6_html_e7a41f6b64126d3a.gif) ![](RackMultipart20210611-4-1j8vdn6_html_38f7264163fbbd4a.gif) ![](RackMultipart20210611-4-1j8vdn6_html_5e7dc62e11d438e4.gif) ![](RackMultipart20210611-4-1j8vdn6_html_e93deb5a1920dac5.gif) ![](RackMultipart20210611-4-1j8vdn6_html_eff4d45cb9a9e4b6.gif) ![](RackMultipart20210611-4-1j8vdn6_html_23d9595a4cf29272.gif) ![](RackMultipart20210611-4-1j8vdn6_html_ed38d257f608b623.gif) ![](RackMultipart20210611-4-1j8vdn6_html_d6cf1f4326e7359f.gif) ![](RackMultipart20210611-4-1j8vdn6_html_d56d543f89bffca.gif) ![](RackMultipart20210611-4-1j8vdn6_html_cf5271d0b25af640.gif)
+**FLUJO DEL JUEGO:**
 
-CRÉDITOS
-
-ENTREGA PREMIOS
-
-MODO MULTIJUGADOR
-
-MODO JUGADOR
-
-MENÚ PRINCIPAL
-
-SELECCIÓN DE MODO
-
-SELECCIÓN OPCIONES
-
-**FLUJO DE JUEGO:**
+![](RackMultipart20210611-4-p6svvu_html_a1905a5c556d591b.png)
 
 **EXPERIENCIA DE USUARIO:**
 
@@ -139,7 +117,7 @@ Dado que el jugador pertenece al público infantil, es un jugador Casual, sin al
 
 &quot;FashionLand&quot; es un juego dirigido al público infantil.
 
-L ![](RackMultipart20210611-4-1j8vdn6_html_413ea530e4b8ea34.png) os niños son inquietos por naturaleza y se hace complicado centrar su atención. Deben ver en el juego un elemento cercano a ellos. Las ilustraciones deben ser de líneas sencillas, los objetos de colores vivos y de gamas básicas.
+L ![](RackMultipart20210611-4-p6svvu_html_413ea530e4b8ea34.png) os niños son inquietos por naturaleza y se hace complicado centrar su atención. Deben ver en el juego un elemento cercano a ellos. Las ilustraciones deben ser de líneas sencillas, los objetos de colores vivos y de gamas básicas.
 
 Además tienen una profunda necesidad de experimentar ellos mismos e imitar actitudes.
 
@@ -149,29 +127,23 @@ El juego les proporciona la capacidad de elegir prendas, de vestir a los muñeco
 
 El juego es una adaptación digital de los juegos de los sesenta de muñecas recortables.
 
-![](RackMultipart20210611-4-1j8vdn6_html_c8721ba3508d7f01.jpg)
+![](RackMultipart20210611-4-p6svvu_html_c8721ba3508d7f01.jpg)
 
 El diseño es una recreación de pinturas infantiles, basadas en trazos irregulares, con desiguales contornos y gama de colores fuerte. Se muestra cierta influencia del mundo &quot;cómic&quot;.
 
 Los personajes, muñecos-modelo, integran el estilo del juego clásico, con influencia de dibujos anime de la actualidad y finalmente el matiz &quot;dibujo infantil&quot; mencionado anteriormente.
 
-![](RackMultipart20210611-4-1j8vdn6_html_4b7a69a98b17e04c.gif) ![](RackMultipart20210611-4-1j8vdn6_html_5374786e8224958c.gif) ![](RackMultipart20210611-4-1j8vdn6_html_c8721ba3508d7f01.jpg) ![](RackMultipart20210611-4-1j8vdn6_html_f43d3d4b2bb6fbe5.png)
-
-![](RackMultipart20210611-4-1j8vdn6_html_9786bd28df2b762d.png)
-
-![](RackMultipart20210611-4-1j8vdn6_html_f243073a6078f3e9.gif) ![](RackMultipart20210611-4-1j8vdn6_html_ffe635bd96dc90bb.png) ![](RackMultipart20210611-4-1j8vdn6_html_99ba1e5cbd1ae9b.png)
-
-Muñeco-Modelo
+![](RackMultipart20210611-4-p6svvu_html_285f29f4e4b88d3f.png)
 
 Con este modelo, se generan los otros personajes, variando aspectos físicos básicos como pelo, color de ojos y tono de piel.
 
-![](RackMultipart20210611-4-1j8vdn6_html_96cd00fc83ca2c21.png)
+![](RackMultipart20210611-4-p6svvu_html_96cd00fc83ca2c21.png)
 
 El escenario elegido es un vestidor, con alfombra roja (por influencia de las galas de cine) y adaptado en proporciones y colorido.
 
-![](RackMultipart20210611-4-1j8vdn6_html_a275ecf86e151e76.jpg)
+![](RackMultipart20210611-4-p6svvu_html_a275ecf86e151e76.jpg)
 
-![](RackMultipart20210611-4-1j8vdn6_html_ee4da428f5715eec.png)
+![](RackMultipart20210611-4-p6svvu_html_ee4da428f5715eec.png)
 
 **MODELO DE NEGOCIO**
 
@@ -195,80 +167,8 @@ El juego se publicitará en distintas redes sociales (Twitter, Instagram…). Ta
 
 (Según datos de la Comunidad de Madrid, en el curso 2020/2021 se matricularon 94.758 alumnos en escuelas infantiles).
 
-MÉTRICAS:
+**MÉTRICAS** :
 
 Se analizará qué artículos son los más elegidos por los usuarios, dando así las pautas para el diseño de futuros artículos (por ejemplo, una mayor elección de uniformes o de un tipo específico de ropa deportiva…)
 
- ![](RackMultipart20210611-4-1j8vdn6_html_d856b7423a6b58a0.gif) ![](RackMultipart20210611-4-1j8vdn6_html_ed08787daf40b2d5.gif) ![](RackMultipart20210611-4-1j8vdn6_html_927228fbb6659ac2.gif) ![](RackMultipart20210611-4-1j8vdn6_html_e6e4c35954a466e4.gif) ![](RackMultipart20210611-4-1j8vdn6_html_ed14b105f3fd1edd.gif) ![](RackMultipart20210611-4-1j8vdn6_html_4f9507f1fce44348.gif) ![](RackMultipart20210611-4-1j8vdn6_html_5091b934315ad684.gif) ![](RackMultipart20210611-4-1j8vdn6_html_e0c2736b684e4087.gif) ![](RackMultipart20210611-4-1j8vdn6_html_56c5d27746a0e69c.gif)
-
-**Segmentos de Cliente**
-
-Público infantil
-
-**Socios Clave**
-
-Influencers.
-
-Centros educativos.
-
-Editoriales, empresas dedicadas al mundo infantil.
-
-**Actividades Clave**
-
-Presentación y demostraciones de juego.
-
-Lanzamientos de packs.
-
-Inclusión de diseño de usuario.
-
-**Recursos Clave**
-
-Mantener el compromiso de actualización de juego.
-
-Conocimiento del mundo infantil.
-
-**Propuesta de valor**
-
-Estética diferente.
-
-Fomento de creatividad en usuario.
-
-Facilidad de uso.
-
-Escalabilidad. Posibilidad de mejoras y actualizaciones.
-
-Apertura a nuevos conceptos (vestir mascotas…)
-
-**Relación con Clientes** :
-
-Seguimiento y análisis de uso del juego.
-
-Seguimiento de &quot;diseñadores&quot;. &quot;Alertas&quot; en redes avanzando los &quot;pack premium&quot;
-
-**Canales**
-
-Distribución en Redes.
-
-Difusión en editoriales, revistas infantiles, catálogos de moda infantil
-
-**Fuente de Ingresos**
-
--Donaciones
-
--Compras del season pass y de los packs premium
-
--Publicidad dentro del juego
-
-**Estructura de Costos**
-
-Sueldos y salarios: 1 trabajador
-
-Suministros: Telecomunicación, energía.
-
-Gastos de Publicidad.
-
-Licencias.
-
-Impuestos
-
-![](RackMultipart20210611-4-1j8vdn6_html_ffe635bd96dc90bb.png)
+![](RackMultipart20210611-4-p6svvu_html_2346f2a2c1879820.png)
