@@ -136,6 +136,10 @@ En el ordenador se utiliza el ratón y en los dispositivos móviles usando la pa
 
 ![Imagen17](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen17.png)
 
+## MÚSICA:
+
+Se ha creado una música específica para el juego.
+
 ## EXPERIENCIA DE USUARIO:
 
 Dado que el jugador pertenece al público infantil, es un jugador Casual, sin altas pretensiones
