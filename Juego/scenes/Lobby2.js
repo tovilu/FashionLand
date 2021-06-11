@@ -21,7 +21,7 @@ class Lobby2 extends Phaser.Scene
         this.gorro1Num = 0;
         this.camiseta1Num = 0;
         this.pantalon1Num = 0;
-        this.zapatos1Num = 0;
+        this.zapato1Num = 0;
 
         this.puntuacion1 = 0;
         this.puntuacion2 = 0;
@@ -32,6 +32,15 @@ class Lobby2 extends Phaser.Scene
         this.menuFondo.setVisible(true);
         this.menuFondo.setScale(game.canvas.width/1920,game.canvas.height/1080);
 
+        //Saber el jugador
+        this.j1 = this.add.image(game.canvas.width * 57 / 100, game.canvas.height * 10 / 100, 'uno');  
+        this.j1.setVisible(true);
+        this.j1.setScale(game.canvas.width * 0.8 /1920,game.canvas.height * 0.8 /1080);
+
+        this.j2 = this.add.image(game.canvas.width * 57 / 100, game.canvas.height * 10 / 100, 'dos');
+        this.j2.setVisible(false);
+        this.j2.setScale(game.canvas.width * 0.8 /1920,game.canvas.height * 0.8 /1080);
+
         //Boton Return
         this.returnButton = this.add.image(game.canvas.width * 7 / 100,game.canvas.height * 10 / 100, 'returnButton').setInteractive();
         this.returnButton.setVisible(true);
@@ -41,13 +50,13 @@ class Lobby2 extends Phaser.Scene
         //Boton Terminado y Jugador 2
         if (game.languageSuffix == '_es')
         {
-            this.jugador2Button = this.add.image(game.canvas.width * 55 / 100, game.canvas.height * 10 / 100, 'jugador2Button').setInteractive();
-            this.terminarButton = this.add.image(game.canvas.width * 55 / 100, game.canvas.height * 10 / 100, 'terminarButton').setInteractive();
+            this.jugador2Button = this.add.image(game.canvas.width * 30 / 100, game.canvas.height * 10 / 100, 'jugador2Button').setInteractive();
+            this.terminarButton = this.add.image(game.canvas.width * 30 / 100, game.canvas.height * 10 / 100, 'terminarButton').setInteractive();
         }
         else
         {
-            this.jugador2Button = this.add.image(game.canvas.width * 55 / 100, game.canvas.height * 10 / 100, 'player2Button').setInteractive();
-            this.terminarButton = this.add.image(game.canvas.width * 55 / 100, game.canvas.height * 10 / 100, 'finishButton').setInteractive();
+            this.jugador2Button = this.add.image(game.canvas.width * 30 / 100, game.canvas.height * 10 / 100, 'player2Button').setInteractive();
+            this.terminarButton = this.add.image(game.canvas.width * 30 / 100, game.canvas.height * 10 / 100, 'finishButton').setInteractive();
         }
         this.jugador2Button.setVisible(true);
         this.jugador2Button.on('pointerdown', function (pointer){this.cambiarPlayer();}, this);
@@ -609,6 +618,8 @@ class Lobby2 extends Phaser.Scene
 
     cambiarPlayer()
     {
+        this.j1.setVisible(false);
+        this.j2.setVisible(true);
         this.jugador = 2;
         this.chico2Num = this.chico1Num;
         this.desactivarTodos();
@@ -633,6 +644,7 @@ class Lobby2 extends Phaser.Scene
 
     terminar()
     {
+        this.j2.setVisible(false);
         this.terminarButton.setVisible(false);
         this.boton = 1;
 

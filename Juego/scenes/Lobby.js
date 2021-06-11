@@ -28,11 +28,11 @@ class Lobby extends Phaser.Scene
         //Boton Terminado
         if (game.languageSuffix == '_es')
         {
-            this.terminarButton = this.add.image(game.canvas.width * 55 / 100, game.canvas.height * 10 / 100, 'terminarButton').setInteractive();
+            this.terminarButton = this.add.image(game.canvas.width * 30 / 100, game.canvas.height * 10 / 100, 'terminarButton').setInteractive();
         }
         else
         {
-            this.terminarButton = this.add.image(game.canvas.width * 55 / 100, game.canvas.height * 10 / 100, 'finishButton').setInteractive();
+            this.terminarButton = this.add.image(game.canvas.width * 30 / 100, game.canvas.height * 10 / 100, 'finishButton').setInteractive();
         }
         this.terminarButton.setVisible(true);
         this.terminarButton.on('pointerdown', function (pointer){this.terminar();}, this);

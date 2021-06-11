@@ -36,6 +36,10 @@ class Preloader extends Phaser.Scene
 		this.load.image('player2Button', './assets/player2Button.png');
 		this.load.image('jugador2Button', './assets/jugador2Button.png');
 
+		//numeros
+		this.load.image('uno', './assets/uno.png');
+		this.load.image('dos', './assets/dos.png');
+
 
 		//Flechas seleccion idioma
 		this.load.image('flechas', './assets/flechas.png');
