@@ -57,6 +57,8 @@ con las acciones a realizar.
 La pantalla principal que incita a jugar se compone del título del juego, FashionLand, y la orden
 de Click para comienzo del mismo.
 
+![Imagen1](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen1.png)
+
 Una vez pulsado el Click, pasamos al menú principal:
 
 
