@@ -16,7 +16,7 @@ class Preloader extends Phaser.Scene
 
 		//Creditos
 		this.load.image('creditosTexto', './assets/creditosTexto.png');
-
+		this.load.audio('cancion', './audio/cancion.mp3');
 
 		//Fotos botones menu
 		this.load.image('playButton', './assets/playButton.png');
