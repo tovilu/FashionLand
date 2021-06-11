@@ -61,48 +61,72 @@ de Click para comienzo del mismo.
 
 Una vez pulsado el Click, pasamos al menú principal:
 
+![Imagen2](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen2.png)
 
 En este menú destacan tres botones centrales:
+
+![Imagen3](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen3.png)
 
 En el botón de Créditos/Credits, se da la información del
 Juego, tanto autor como correo de contacto.
 
+![Imagen4](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen4.png)
+![Imagen5](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen5.png)
+
 Con el botón Opciones/Opción, podemos alterar
 parámetros de configuración. En este caso el idioma (español/inglés):
+
+![Imagen6](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen6.png)
+![Imagen7](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen7.png)
 
 
 El botón de Jugar/Play, nos permite seleccionar el
 modo de juego.
 
+![Imagen8](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen8.png)
+
 SINGLE PLAYER/ UN JUGADOR - Un único Jugador;
 
 MULTIPLAYER/MULTIJUGADOR: Dos jugadores;
 
+![Imagen9](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen9.png)
 
 La pantalla de Juego, Vestidor, tiene varias áreas a destacar:
 
 Zona de selección de muñeco-modelo, de artículo para cabeza, de artículo para parte superior
 del cuerpo, artículo para parte inferior y finalmente calzado.
 
+![Imagen10](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen10.png)
+
 Al seleccionar uno de estos botones se exponen en la parte izquierda seis distintas opciones
 aunque para ver más opciones nos podemos desplazar mediante las flechas que aparecen
 junto a estas.
 
+![Imagen11](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen11.png)
 
 En la parte superior se muestra el Identificador de jugador, útil para el caso de Modo
 Multijugador.
 
+![Imagen12](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen12.png)
+
 Si el jugador desea salir tiene el botón para volver al menú principal en la parte superior
 izquierda de la pantalla.
 
+![Imagen13](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen13.png)
+
 Si el jugador considera vestido a su muñeco-modelo puede pulsar el botón fin.
+
+![Imagen14](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen14.png)
 
 Otros botones de interés son los que permiten pasar al otro jugador en el caso de
 Multijugador.
 
+![Imagen15](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen15.png)
+
 Por último la escena final, donde aparecen los muñecos-modelo con el premio
 correspondiente.
 
+![Imagen16](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen16.png)
 
 ## CONTROLES
 
@@ -110,6 +134,7 @@ En el ordenador se utiliza el ratón y en los dispositivos móviles usando la pa
 
 ## FLUJO DEL JUEGO:
 
+![Imagen17](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen17.png)
 
 ## EXPERIENCIA DE USUARIO:
 
@@ -120,6 +145,8 @@ adulto el dispositivo).
 ## MAPA DE EMPATÍA DEL USUARIO:
 
 “FashionLand” es un juego dirigido al público infantil.
+
+![Imagen18](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen18.png)
 
 Los niños son inquietos por naturaleza y se hace complicado centrar
 su atención. Deben ver en el juego un elemento cercano a ellos. Las
@@ -140,6 +167,7 @@ al final.
 
 El juego es una adaptación digital de los juegos de los sesenta de muñecas recortables.
 
+![Imagen19](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen19.png)
 
 El diseño es una recreación de pinturas infantiles, basadas en trazos irregulares, con desiguales
 contornos y gama de colores fuerte. Se muestra cierta influencia del mundo “cómic”.
@@ -147,13 +175,18 @@ contornos y gama de colores fuerte. Se muestra cierta influencia del mundo “c�
 Los personajes, muñecos-modelo, integran el estilo del juego clásico, con influencia de dibujos
 anime de la actualidad y finalmente el matiz “dibujo infantil” mencionado anteriormente.
 
+![Imagen20](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen20.png)
+
 Con este modelo, se generan los otros personajes, variando aspectos físicos básicos como pelo,
 color de ojos y tono de piel.
 
+![Imagen21](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen21.png)
 
 El escenario elegido es un vestidor, con alfombra roja (por influencia de las galas de cine) y
 adaptado en proporciones y colorido.
 
+![Imagen22](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen22.png)
+![Imagen23](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen23.png)
 
 ## MODELO DE NEGOCIO
 
@@ -198,3 +231,5 @@ alumnos en escuelas infantiles).
 Se analizará qué artículos son los más elegidos por los usuarios, dando así las pautas para el
 diseño de futuros artículos (por ejemplo, una mayor elección de uniformes o de un tipo
 específico de ropa deportiva...)
+
+![Imagen24](https://github.com/tovilu/FashionLand/blob/main/imagenesReadme/Imagen24.png)
